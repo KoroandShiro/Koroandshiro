@@ -23,11 +23,12 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-  Recently graduated with a Bachelor's in Computer Science and Engineering from <strong>ISEL</strong>, and incoming Master's student in Security and Privacy at <strong>NOVA FCT</strong>. I'm passionate about digital privacy, scalable infrastructures, and I love spending my free time managing and configuring my own <em>home server</em>.
+  Recently graduated with a BSc in Computer Science and Engineering from <strong>ISEL</strong>, and currently preparing to start my Master's in Security and Privacy at <strong>NOVA FCT</strong>. Right now, I'm taking my first deep dives into the world of cybersecurity, exploring different areas to build a strong practical foundation for my upcoming studies. Alongside my academic journey, I love getting hands-on with infrastructure by managing my own <em>home server</em>.
   <br><br>
-  - 🎓 <strong>Education:</strong> BSc at ISEL ➔ MSc at NOVA FCT (Security & Privacy).<br>
-  - 🚀 <strong>Highlight:</strong> Developed and deployed <a href="LINK_TO_CLIMBBETA">ClimbBeta</a>, a full-stack application.<br>
-  - 🖥️ <strong>Current Focus:</strong> Cybersecurity, Self-hosted Systems, and Software Architecture.
+  - 🎓 <strong>Education:</strong> BSc at ISEL ➔ Incoming MSc at NOVA FCT (Security & Privacy).<br>
+  - 🌱 <strong>Currently Learning:</strong> Building hands-on security skills via <strong>pwn.college</strong>, TryHackMe, OverTheWire, and PortSwigger Academy.<br>
+  - 🚀 <strong>Highlight:</strong> Developed and deployed <a href="https://github.com/KoroandShiro/ClimbBeta">ClimbBeta</a>, a full-stack application (Graded 17/20).<br>
+  - 🖥️ <strong>Hobbies:</strong> Self-hosted systems, software architecture, and building reliable environments.
 </p>
 
 ###
@@ -64,9 +65,3 @@
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoroandShiro&show_icons=true&theme=tokyonight&hide_border=true" alt="Global Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoroandShiro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
-</div>
