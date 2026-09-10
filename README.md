@@ -25,7 +25,7 @@
 <p align="left">
   Recently graduated with a BSc in Computer Science and Engineering from <strong>ISEL</strong>, and currently preparing to start my Master's in Security and Privacy at <strong>NOVA FCT</strong>. Right now, I'm taking my first deep dives into the world of cybersecurity, exploring different areas to build a strong practical foundation for my upcoming studies. Alongside my academic journey, I love getting hands-on with infrastructure by managing my own <em>home server</em>.
   <br><br>
-  - 🎓 <strong>Education:</strong> BSc at ISEL ➔ Incoming MSc at NOVA FCT (Security & Privacy).<br>
+  - 🎓 <strong>Education:</strong> BSc at ISEL ➔ Currently at MSc at NOVA FCT (Security & Privacy).<br>
   - 🌱 <strong>Currently Learning:</strong> Building hands-on security skills via <strong>pwn.college</strong>, TryHackMe, OverTheWire, and PortSwigger Academy.<br>
   - 🚀 <strong>Highlight:</strong> Developed and deployed <a href="https://github.com/KoroandShiro/ClimbBeta">ClimbBeta</a>, a full-stack application (Graded 17/20).<br>
   - 🖥️ <strong>Hobbies:</strong> Self-hosted systems, software architecture, and building reliable environments.
